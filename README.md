@@ -1,8 +1,10 @@
+[全目录地址:https://www.blog996.com/md/2021-09-22-1632317852192.html](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 # 205.EmployeeInformationManagementSystem
-
-<p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
+<p>群: 123300273(入群获取sql文件)</p>
+<p>QQ: 1095737364(加好友获取sql文件)</p>
 
 <p><h1 align="center">205.员工信息管理系统</h1></p>
+
 
 
 <p align="center">
@@ -37,11 +39,10 @@
 ![](https://img2023.cnblogs.com/blog/588112/202302/588112-20230210222203247-167249544.png)
 ![](https://img2023.cnblogs.com/blog/588112/202302/588112-20230210222209178-907505291.png)
 
+
 ## License
 
 ##### [个人站点: 全栈九九六(Java全栈知识资料下载)](https://www.blog996.com/)
 ##### [个人博客: 博客园精品博客](https://www.cnblogs.com/yysbolg/)
-##### [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
-
-
+# [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 

@@ -12,15 +12,15 @@ public class ManageDatabaseReading {
 	ResultSet rs;
 
 	 ManageDatabaseReading(){
-		//加载驱动  
+		//加载驱动
 		try{
 			Class.forName("com.mysql.jdbc.Driver");
 		}catch(Exception e){
 		}
 		//连接数据库
-		String uri="jdbc:mysql://localhost:3306/graduation_datasystemcon?characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&AllowPublicKeyRetrieval=True";
+		String uri="jdbc:mysql://localhost:3306/graduation_205_datasystemcon?characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&AllowPublicKeyRetrieval=True";
 		try{
-		
+
 			con=DriverManager.getConnection(uri,"root","123456");//账号密码
 			sql=con.createStatement();
 			System.out.println("链接数据库成功");
@@ -36,5 +36,5 @@ public class ManageDatabaseReading {
 			System.out.println("请检查数据库密码是否正确：数据库密码错误");
 			}
 		}
-	}	
+	}
 }
